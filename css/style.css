@@ -1,0 +1,54 @@
+body
+{
+	width: 800px;
+	height: 600px;
+	margin:30px auto;
+	font-size: 15px;
+	background: #00FFFF;
+	color: black;
+	text-align: center; 
+
+}
+ul{
+	
+	clear: both;
+	list-style: none;
+	width:170px;
+}
+
+li
+{
+	display:inline;
+	padding-right:15px;
+	font-family: sans-serif;
+	color:#666;
+	font-size: 14px;
+	float: left;
+
+
+
+}
+
+input{
+	color: red;
+}
+ 
+.primary
+{
+	font-size: 12px;
+}
+
+.content
+{
+font-family: "times new roman";
+color:black;
+
+}
+
+.contact
+{
+	font-family: "times new roman";
+color:black;
+
+}
+

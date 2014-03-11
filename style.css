@@ -1,0 +1,40 @@
+body
+{
+	width: 800px;
+	margin:30px auto;
+	font-size: 15px;
+	background: #00FFFF;
+	color: black;
+}
+ul{
+	float: left;
+	clear: both;
+	list-style: none;
+}
+
+li
+{
+	display:inline;
+	padding-right:15px;
+	font-family: sans-serif;
+	color:#666;
+	font-size: 14px;
+	float: left;
+
+}
+ 
+.primary
+{
+	font-size: 12px;
+}
+
+.content
+{
+font-family: "times new roman";
+background-color: 
+
+}
+.contact{
+	background-color: #00FFFF;
+}
+
